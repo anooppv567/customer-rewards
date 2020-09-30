@@ -1,0 +1,23 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  text-align: center;
+}
+.header {
+  height: 50px;
+  background-color: #0d4f8b;
+}
+.commonMargin {
+  margin: 20px;
+}
+
+.totalContainer {
+  height: 50px;
+  background-color: #60affe;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}

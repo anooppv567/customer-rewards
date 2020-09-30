@@ -1,0 +1,16 @@
+.customerContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.custItem {
+  flex: 1;
+  align-items: center;
+}
+.btn {
+  background-color: #1976d2 !important;
+  color: #ffffff !important;
+}
